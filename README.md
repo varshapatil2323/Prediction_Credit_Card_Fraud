@@ -38,23 +38,23 @@ Install Dependencies Use the provided requirements.txt file to set up your envir
 pip install -r requirements.txt
 Run Jupyter Notebooks
 
-Navigate to the notebooks/ folder.
+### Navigate to the notebooks/ folder.
 Start Jupyter Notebook:  Open File -File Name
 credit_card_fraud_finaltest.ipynb
 
-Key Results
+### Key Results
 Model Used: Random Forest Classifier 
 Accuracy: 99.98%
 Precision (Fraud): 99.97%
 Recall (Fraud): 100%
 AUC-ROC: 99.99%
 
-Models
+### Models
 Save Model the of Random Forest Classifier 
 credit_card_model.pkl
 fraud_detection_model.pkl
 
-Visualizations
+### Visualizations
 Class Distribution
 Feature Distribution using histogram and boxplot
 Correlation Matrix
@@ -62,12 +62,12 @@ ROC Curve
 Confusion Matrix 
 Best Model Prediction using Barplot
 
-Future Work
+### Future Work
 Experiment with deep learning models for fraud detection.
 Build an API for real-time fraud prediction.
 
 
-Contact
+### Contact
 For any questions or contributions, feel free to contact me at [varsha.tambe2323@gmail.com].
 
 ---
